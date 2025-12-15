@@ -16,7 +16,6 @@ int main()
     sum = sum + i;
   }
 
-  cout<<"Sum is "<<sum<<endl;
-
+  cout<<"Sum is "<<sum;
   return 0;
 }
