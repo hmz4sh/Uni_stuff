@@ -1,2 +1,2 @@
 # Uni_stuff
-Just a repo containin my cpp practices
+A repo consisting of Cpp Practices
