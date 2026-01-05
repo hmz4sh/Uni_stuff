@@ -1,7 +1,7 @@
-#DUCK NUMBER
+# DUCK NUMBER
 Checks if a number is a duck number
 
-##Sample Output
+## Sample Output
 
 Enter a number to check if it is a duck number or not: 4400334400123
 
