@@ -1,0 +1,1 @@
+Cpp code which checks if a number is a palindrome
